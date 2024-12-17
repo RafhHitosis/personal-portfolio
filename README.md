@@ -1,6 +1,6 @@
 🚀 Personal Portfolio  
 
-This is my personal portfolio website built using **Angular**, **JavaScript**, and **TypeScript**. It highlights my work, experiences, and contact details.
+This is my personal portfolio website built using **Angular**, **JavaScript**, and **TypeScript**. It highlights my projects, experiences, and contact details.
 
 ---
 

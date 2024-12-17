@@ -37,30 +37,33 @@ This is my personal portfolio website built using **Angular**, **JavaScript**, a
 
 ## How to Run Locally  
 
-1. Clone the repository:  
+1. **Install Angular CLI** (if you don't have it installed):  
+   To install the Angular CLI globally, run the following command:
    ```bash
-   https://github.com/RafhHitosis/personal-portfolio.git
+   npm install -g @angular/cli
    ```
 
-2. Navigate to the project folder:  
+2. Clone the repository:  
+   ```bash
+   git clone https://github.com/RafhHitosis/personal-portfolio.git
+   ```
+
+3. Navigate to the project folder:  
    ```bash
    cd personal-portfolio
    ```
 
-3. Install dependencies:  
+4. Install dependencies:  
    ```bash
    npm install
    ```
 
-4. Run the application:  
+5. Run the application:  
    ```bash
    ng serve
    ```
 
-5. Open your browser and go to:  
+6. Open your browser and go to:  
    ```
    http://localhost:4200
    ```
-
-
-

@@ -29,9 +29,9 @@ This is my personal portfolio website built using **Angular**, **JavaScript**, a
 
 ## Features  
 
-- 📱 **Responsive design** for all devices.  
-- 🔍 **User-friendly layout** for easy navigation.  
-- 🗂️ **Organized display** of personal and professional information.
+- 📱 **Responsive design**
+- 🔍 **User-friendly layout**
+- 🗂️ **Organized display**
 
 ---
 

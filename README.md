@@ -1,48 +1,66 @@
-Here’s the updated **README** file content with **JavaScript** and **TypeScript** added to the technologies used section:
+🚀 Personal Portfolio  
 
----
-
-# Personal Portfolio  
-
-This is my personal portfolio website built using **Angular**, **JavaScript**, and **TypeScript**. It highlights my projects, experiences, and contact details.
+This is my personal portfolio website built using **Angular**, **JavaScript**, and **TypeScript**. It highlights my work, experiences, and contact details.
 
 ---
 
 ## Sections  
 
-- **Header**  
-- **About Me**  
-- **Project Articles**  
-- **Past Projects**  
-- **Experiences and Education**  
-- **Awards**  
-- **Testimonials**  
-- **Seminars**  
-- **Contact**  
+- 📜 **Header**  
+- 👤 **About Me**  
+- 📚 **Project Articles**  
+- 🛠️ **Past Projects**  
+- 🎓 **Experiences and Education**  
+- 🏆 **Awards**  
+- 💬 **Testimonials**  
+- 🎤 **Seminars**  
+- 📞 **Contact**  
 
 ---
 
 ## Technologies Used  
 
-- **Framework**: Angular  
-- **Language**: JavaScript, TypeScript  
-- **Styling**: CSS / SCSS  
-- **Animations**: Angular Animations  
+- ⚙️ **Framework**: Angular  
+- 📝 **Language**: JavaScript, TypeScript  
+- 🎨 **Styling**: CSS / SCSS  
+- ✨ **Animations**: Angular Animations  
 
 ---
 
 ## Features  
 
-- Responsive design for all devices.  
-- User-friendly layout for easy navigation.  
-- Organized display of personal and professional information.  
-
-
-
-## License  
-
-This project is open-source and available under the [MIT License](LICENSE).
+- 📱 **Responsive design** for all devices.  
+- 🔍 **User-friendly layout** for easy navigation.  
+- 🗂️ **Organized display** of personal and professional information.
 
 ---
 
-Feel free to adjust any of the content to fit your exact needs! 🚀
+## How to Run Locally  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/YourUsername/personal-portfolio.git
+   ```
+
+2. Navigate to the project folder:  
+   ```bash
+   cd personal-portfolio
+   ```
+
+3. Install dependencies:  
+   ```bash
+   npm install
+   ```
+
+4. Run the application:  
+   ```bash
+   ng serve
+   ```
+
+5. Open your browser and go to:  
+   ```
+   http://localhost:4200
+   ```
+
+
+
